@@ -45,7 +45,7 @@ I made this code with the help of ChatGPT.
 - handling user input
 - using HTTP requests to get API data
 - debugging
-I used the VS code editor for this project and it took me about a week to build and debug.  This was a great first step into Java and backend development and I am excited to create more commplex projects in the future.
+- I used the VS code editor for this project and it took me about a week to build and debug.  This was a great first step into Java and backend development and I am excited to create more commplex projects in the future.
 
 ## UPDATE REQUIRED 
 Changes required to the way the date is displayed into a more readable format(e.g., `YYYY-MM-DD`).
