@@ -29,7 +29,7 @@ Exchange: NASDAQ
 
 ## Code
 - uses user input from the built in `Scanner` class in Java
-- runs on a `while true` loop that breaks when the user enters "exit"
+- runs on a `while (true)` loop that breaks when the user enters "exit"
 - since all stock tickers are uppercase, user input is converted to uppercase to make searching for the stock easier
 - uses 2 methods
 - uses Http requests to to get data from API
@@ -38,5 +38,14 @@ Exchange: NASDAQ
 - uses `if else` statements to make sure there is actually data in the array
 - there is a `try catch` exception around the code to make sure the program doesn't crash when the API cannot be reached
 
-## Other info
-I made this code with the help of ChatGPT.  I expanded my knowledge on Json, API usage, input handling, HTTP requests, and debugging.  This project took me about a week to do and debug.  I used VS code editor to make the project.  I felt it was a great starter project for me and I will create more commplex projects in the future.  UPDATE REQUIRED: I will change the way the date is displayed into a more readable format.
+## What I Learned
+I made this code with the help of ChatGPT.
+- I expanded my knowledge on using Gson to parse Json
+- Using APIs effectively
+- handling user input
+- using HTTP requests to get API data
+- debugging
+I used the VS code editor for this project and it took me about a week to build and debug.  This was a great first step into Java and backend development and I am excited to create more commplex projects in the future.
+
+## UPDATE REQUIRED 
+Changes required to the way the date is displayed into a more readable format(e.g., `YYYY-MM-DD`).
