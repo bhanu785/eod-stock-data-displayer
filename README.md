@@ -1,1 +1,1 @@
-# eod-stock-data-displayer
+# eod-stock-data-displayer This is one of my first Java projects I did by myself.  Made in June-July of 2025.  Uses the free plan of the Marketstack API.  Takes in user input of stock tickers and displays the end of day data as well as the stock exchange.  Also displays date.  
