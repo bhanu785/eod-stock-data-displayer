@@ -45,6 +45,7 @@ I made this code with the help of ChatGPT.
 - handling user input
 - using HTTP requests to get API data
 - debugging
+- commiting to github
 - I used the VS code editor for this project and it took me about a week to build and debug.  This was a great first step into Java and backend development and I am excited to create more commplex projects in the future.
 
 ## UPDATE REQUIRED 
